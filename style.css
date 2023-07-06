@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #8f8f8c;
+  margin: 12px;
+  padding: 20px 20px;
+  width: 340px;
+  height: 380px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+#img-dog {
+  background-color: #fff;
+  padding: 1px;
+  width: 300px;
+  height: 300px;
+  border-radius: 12px;
+}
+
+#img-dog img {
+  height: 100%;
+  width: 100%;
+  border-radius: 12px;
+}
+
+#btn-dog {
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px 4px;
+}
+
+#btn-dog:hover {
+  background-color: #EA9306;
+  border-color: #EA9306;
+}
+
+p {
+  padding-top: 20px;
+  color: red;
+}
